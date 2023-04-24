@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+body{
+    margin:auto;
+    padding:0 150px;
+    color:goldenrod;
+    background-color: rgb(225, 173, 183)
+}
+.links,.dropdown show,img,.info,.table{
+    margin-top: 5px;
+}
